@@ -1,5 +1,5 @@
 /*++
-Copyright (c) 2019 Bedrock Foundation. All Right Reserved.
+Copyright (c) 2019 Bedrock Studios. All Right Reserved.
 Licensed under the GNU Public Generic License v3.
 
 Module:
